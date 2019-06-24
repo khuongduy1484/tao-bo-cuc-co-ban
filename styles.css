@@ -1,0 +1,22 @@
+#header{
+    background: aqua;
+    width: 30%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    /*position: fixed;*/
+
+}
+
+#header1{
+  background:chartreuse;
+    width: 70%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    /*position: fixed;*/
+}
+#head-link{
+    /*position: fixed;*/
+    width: 100%;
+}
